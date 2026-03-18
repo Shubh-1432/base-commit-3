@@ -1,4 +1,4 @@
-commiting
+commit
 base post
 
 
