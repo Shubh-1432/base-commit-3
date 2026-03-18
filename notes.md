@@ -1,3 +1,3 @@
-base only
+commit task
 base up
 base 
