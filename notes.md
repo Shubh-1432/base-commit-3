@@ -4,7 +4,7 @@ need
 base
 commit
 for
-completing
+completi
 guild
 task
 got
