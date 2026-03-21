@@ -3,7 +3,7 @@ need
 60
 base
 commit
-f
+for
 completing
 guild
 task
