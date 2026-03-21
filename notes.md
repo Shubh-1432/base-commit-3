@@ -2,7 +2,7 @@ i i
 ne ed
 6
 base
-commit
+com
 for
 completing
 guild
