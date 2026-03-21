@@ -6,7 +6,7 @@ comm
 f
 commit
 guild
-tas
+task
 got
 i
 u
