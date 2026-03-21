@@ -5,7 +5,7 @@ base
 commit
 for
 completing
-guild
+gui
 task
 got
 it
