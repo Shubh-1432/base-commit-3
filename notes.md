@@ -4,7 +4,7 @@ ne ed
 ba
 com
 f
-completing
+compl
 guild
 task
 got
