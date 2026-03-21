@@ -6,6 +6,6 @@ commit
 for
 completing
 guild
-tk
+t
 got
 it
