@@ -2,7 +2,7 @@ i
 need
 60
 base
-commit
+com
 for
 completing
 guild
