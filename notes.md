@@ -1,5 +1,5 @@
 i 
-ne ed
+ne
 6
 ba
 com
