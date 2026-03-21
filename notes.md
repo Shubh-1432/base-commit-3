@@ -7,5 +7,5 @@ for
 completing
 guild
 task
-got
+g
 it
