@@ -2,7 +2,7 @@ i
 need
 60
 base
-com
+comm
 f
 com
 guild
