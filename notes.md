@@ -6,6 +6,6 @@ commit
 for
 completing
 guild
-tas
+task
 got
 it
