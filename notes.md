@@ -8,5 +8,5 @@ com
 guild
 tas
 got
-it
+i
 u
