@@ -1,7 +1,7 @@
 i 
 need
 60
-ba
+bas
 com
 f
 com
