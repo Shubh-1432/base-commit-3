@@ -4,7 +4,7 @@ need
 base
 comm
 f
-com
+comm
 guild
 tas
 got
